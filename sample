@@ -1,0 +1,199 @@
+{
+    "status": "ok",
+    "totalResults": 2127,
+"articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Jon Fingas",
+    "title": "Apple is reportedly planning an iPhone hardware subscription service",
+    "description": "Apple's iPhones and other devices have become increasingly expensive, and the company may be using alternative sales models to help soften the blow. Bloombergsources claim Apple is developing a subscription service for the iPhone and other hardware. Akin to t…",
+    "url": "https://www.engadget.com/apple-iphone-hardware-subscription-service-rumor-173402698.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/45453e60-ab97-11ec-bff2-c465f5469a16",
+    "publishedAt": "2022-03-24T17:34:02Z",
+    "content": "Apple's iPhones and other devices have become increasingly expensive, and the company may be using alternative sales models to help soften the blow. Bloombergsources claim Apple is developing a subsc… [+1011 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Mariella Moon",
+    "title": "HBO Max's new shuffle play feature is limited to 45 shows",
+    "description": "Almost a year after Netflix introduced its shuffle play button, HBO Max has also launched its own. Unlike Netflix's version that randomly plays shows and movies from the service's whole catalog based on your viewing history, though, HBO Max's has a pretty lim…",
+    "url": "https://www.engadget.com/hbo-max-shuffle-play-063443596.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/12044990-ab35-11ec-be9f-91ce371bda89",
+    "publishedAt": "2022-03-24T06:34:43Z",
+    "content": "Almost a year after Netflix introduced its shuffle play button, HBO Max has also launched its own. Unlike Netflix's version that randomly plays shows and movies from the service's whole catalog based… [+2064 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Florence Ion",
+    "title": "Your iPhone and iPad Could Be Your Next Subscription",
+    "description": "In the future, you don’t own anything—maybe not even your iPhone or iPad. Read more...",
+    "url": "https://gizmodo.com/your-iphone-and-ipad-could-be-your-next-subscription-1848699429",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b0b5630150de07410976826ed3fa6851.jpg",
+    "publishedAt": "2022-03-24T19:00:00Z",
+    "content": "In the future, you dont own anythingmaybe not even your iPhone or iPad. \r\nBloomberg reports that Apple is working on a monthly subscription service for the iPhone and other hardware, including the iP… [+2372 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Andy Newman",
+    "title": "She Starved and Nearly Died on Guardian’s Watch, Family Says",
+    "description": "All Bonnie Lee Apple would tell a friend on the phone was “I don’t feel good.” A disturbing photo indicated problems.",
+    "url": "https://www.nytimes.com/2022/03/24/nyregion/court-appointed-guardian-abuse-case.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/24/nyregion/24ny-guardian/24ny-guardian-facebookJumbo.jpg",
+    "publishedAt": "2022-03-24T14:20:41Z",
+    "content": "Ms. Apple with her ex-husband, Gary Apple, last October. Mr. Apple wrote to Ms. Apples guardian that she seemed horrifyingly thin.\r\nTo this day, the family said, neither Vera nor Project Guardianship… [+1826 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple to buy first large batch of carbon-free aluminum for iPhone SE - Reuters.com",
+    "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> said on Thursday it will buy its first industrial-size batch of carbon-free aluminum to use in its low-cost iPhone SE, as it steps up efforts to reduce carbon footprint …",
+    "url": "https://www.reuters.com/technology/apple-buy-first-large-batch-carbon-free-aluminum-iphone-se-2022-03-24/",
+    "urlToImage": "https://www.reuters.com/resizer/Yx6WA9W7laQHwUdAfYDK-M6IS2s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U7ZLWXFMIJOL7JBGUTTSAJR4QM.jpg",
+    "publishedAt": "2022-03-24T12:05:00Z",
+    "content": "March 24 (Reuters) - Apple Inc (AAPL.O) said on Thursday it will buy its first industrial-size batch of carbon-free aluminum to use in its low-cost iPhone SE, as it steps up efforts to reduce carbon … [+923 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Goldman Sachs poised to lead U.S. IPO of SoftBank's Arm -sources - Reuters",
+    "description": "SoftBank Group Corp <a href=\"https://www.reuters.com/companies/9984.T\" target=\"_blank\">(9984.T)</a> is planning to pick Goldman Sachs Group Inc <a href=\"https://www.reuters.com/companies/GS.N\" target=\"_blank\">(GS.N)</a> as the lead underwriter on the initial …",
+    "url": "https://www.reuters.com/business/goldman-sachs-poised-lead-us-ipo-softbanks-arm-sources-2022-03-24/",
+    "urlToImage": "https://www.reuters.com/resizer/RFjv4FXnEwwBEMTUOf6-Fs7htcA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDULRO4HZJI3ZHS4D4SKG5NDXU.jpg",
+    "publishedAt": "2022-03-24T19:18:00Z",
+    "content": "March 24 (Reuters) - SoftBank Group Corp (9984.T) is planning to pick Goldman Sachs Group Inc (GS.N) as the lead underwriter on the initial public offering of Arm Ltd that could value the British chi… [+2830 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "chris.wedel@futurenet.com (Chris Wedel)",
+    "title": "Samsung and Apple have proven that Wear OS's apps aren't the only thing holding the platform back",
+    "description": "Samsung had apps when it used Tizen for its wearable OS and it wasn't enough. Apple Watch has apps and it flourishes. These two things lead me to belive the issue with Wear OS adoption is deeper than a fresh coat of paint.",
+    "url": "https://www.androidcentral.com/wearables/wear-os/wear-os-needs-more-than-apps",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/3MByx39uhE27GysvjkUrJM-1200-80.jpg",
+    "publishedAt": "2022-03-24T13:30:00Z",
+    "content": "Smartphones and apps go together like peanut butter and jelly. Smartwatches are just the same — right? Wear OS users have enjoyed apps on their wrists for years, and it's why the platform thrives and… [+6664 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Presented by Faye Carruthers with Barry Glendenning, Jonathan Wilson, Nedum Onuoha and Suzanne Wrack. Produced by Joel Grove with Silas Gray and executive produced by Max Sanderson.",
+    "title": "Is this Wales’ biggest game for 64 years? - Football Weekly Extra | Podcast",
+    "description": "Faye Carruthers is joined by Barry Glendenning, Jonathan Wilson, Nedum Onuoha to preview the upcoming international fixtures. Plus Suzy Wrack joins for a Women’s Champions League round-up.Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud,…",
+    "url": "https://www.theguardian.com/football/audio/2022/mar/24/is-this-wales-biggest-game-for-64-years-football-weekly-extra-podcast-world-cup-qualifying",
+    "urlToImage": "https://i.guim.co.uk/img/media/d65bbc2498d9dacddfb55f420364440099cfa03c/0_236_3900_2340/master/3900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97310eee6b0f7b870637f7b4993abb8f",
+    "publishedAt": "2022-03-24T14:51:44Z",
+    "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nOn the podcast today; Wales face Austria on Thur… [+499 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Alex Hern UK technology editor",
+    "title": "Sites reported record 29.3m child abuse images in 2021",
+    "description": "Nonprofit says 35% increase on previous year may represent improvement on the part of platformsA record 29.3m items of child abuse imagery were found and removed across the internet in 2021, according to data from the US nonprofit in charge of coordinating re…",
+    "url": "https://amp.theguardian.com/technology/2022/mar/24/sites-reported-record-293m-child-abuse-images-in-2021",
+    "urlToImage": "https://i.guim.co.uk/img/media/f7c17f54dafe70698f00dd13d7decb6f5fc58d6a/0_260_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4acef721db915788d3981f2683f4dd9",
+    "publishedAt": "2022-03-24T10:29:03Z",
+    "content": "A record 29.3m items of child abuse imagery were found and removed across the internet in 2021, according to data from the US nonprofit in charge of coordinating reports on the matter.\r\nThe figure re… [+3295 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Tony Naylor",
+    "title": "The perfect milk alternatives for every purpose – from cocktails to custard",
+    "description": "There is a dizzying range of non-dairy milks on offer, but which make a brilliant béchamel and which taste good in tea?The vegan chef Alexis Gauthier is weaning himself off milk: “I drink black coffee, black tea; I don’t eat cereal. When else would you use it…",
+    "url": "https://amp.theguardian.com/food/2022/mar/24/the-perfect-milk-alternatives-for-every-purpose-from-cocktails-to-custard",
+    "urlToImage": "https://i.guim.co.uk/img/media/04d71dd5e5447b5b25c582ddfef6c9493d460db6/395_0_5341_3205/master/5341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1562c7b8bc6df79ee6385ce93a4d3597",
+    "publishedAt": "2022-03-24T10:00:55Z",
+    "content": "The vegan chef Alexis Gauthier is weaning himself off milk: I drink black coffee, black tea; I dont eat cereal. When else would you use it? But at his plant-based restaurant in London, Gauthier Soho,… [+9108 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Warren Murray",
+    "title": "Thursday briefing: Zelenskiy hangs hopes on Ukraine triple summit",
+    "description": "Joe Biden in Brussels for Nato, G7 and EU talks … steepest decline in UK living standards since records began … the queen of crime-solvingGood morning to you. Warren Murray with the stories at the top of Thursday’s agenda. Continue reading...",
+    "url": "https://amp.theguardian.com/world/2022/mar/24/thursday-briefing-zelenskiy-hangs-hopes-on-ukraine-triple-summit",
+    "urlToImage": "https://i.guim.co.uk/img/media/ac98a959f36d6783b0ecd980e6556e2199e8d658/0_0_4811_2888/master/4811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=782965aafbdb6ccedcdb5f24232e29fb",
+    "publishedAt": "2022-03-24T06:31:56Z",
+    "content": "Top story: A grimmer phase of the war\r\nGood morning to you. Warren Murray with the stories at the top of Thursdays agenda.\r\nToday marks one month since the start of the Russian war against Ukraine. S… [+13043 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Developing Hardware Subscription Service for iPhones and Other Devices",
+    "description": "Apple is developing a hardware subscription service that would allow customers to \"subscribe\" and receive an iPhone or other Apple device as part of their subscription, similar to the way current Apple subscriptions like iCloud work, reports Bloomberg.\n\n\n\n\n\nC…",
+    "url": "https://www.macrumors.com/2022/03/24/apple-hardware-subscription-service/",
+    "urlToImage": "https://images.macrumors.com/t/HqS4B9TCMmEX5r_polX4EqJg-rk=/2500x/article-new/2021/10/iphone-13-pro-max-display-bleen.jpg",
+    "publishedAt": "2022-03-24T17:18:00Z",
+    "content": "Apple is developing a hardware subscription service that would allow customers to \"subscribe\" and receive an iPhone or other Apple device as part of their subscription, similar to the way current App… [+940 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases Safari Technology Preview 142 With Bug Fixes and Performance Improvements",
+    "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that may be introduced into future release versions of Safari.\n\n\n\n\n…",
+    "url": "https://www.macrumors.com/2022/03/23/apple-releases-safari-technology-preview-142/",
+    "urlToImage": "https://images.macrumors.com/t/jHD1aGfXq86Ln_kfzTyWIF68vOo=/2368x/article-new/2021/02/Safari-Technology-Preview-Feature.jpg",
+    "publishedAt": "2022-03-24T00:30:13Z",
+    "content": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that ma… [+1041 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Samsung Rumored to Launch First 'Rollable' Foldable Phone Later This Year",
+    "description": "Samsung will add a third foldable device to its smartphone lineup this year that will likely feature a unique rollable form factor, according to a reliable leaker of Samsung's plans.\n\nOppo X 2021 rollable phone concept\n\n\n\nThe existing Galaxy Z Flip 3 and Gala…",
+    "url": "https://www.macrumors.com/2022/03/24/samsung-rollable-foldable-phone-2022/",
+    "urlToImage": "https://images.macrumors.com/t/GQSd0S_o3mqOl14ulWIVpn9Ps-U=/1600x/article-new/2021/01/apple-patent-rollable-display.jpg",
+    "publishedAt": "2022-03-24T12:54:38Z",
+    "content": "Samsung will add a third foldable device to its smartphone lineup this year that will likely feature a unique rollable form factor, according to a reliable leaker of Samsung's plans.\r\nOppo X 2021 rol… [+3023 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Sami Fathi",
+    "title": "Users Report External Monitor Issues After Updating to macOS Monterey 12.3",
+    "description": "Following the latest macOS Monterey 12.3 update, users are reporting several problems when using external monitors, ranging from Macs not detecting displays at all to inaccurate screen output, according to posts on the Apple Support and MacRumors forums. \n\n\n\n…",
+    "url": "https://www.macrumors.com/2022/03/24/external-display-issues-reported-macos-12-3/",
+    "urlToImage": "https://images.macrumors.com/t/16hDcK1yAydNvG5Nq4sENLKggas=/1600x/article-new/2022/01/24-inch-imac-and-macbook-monterey.jpeg",
+    "publishedAt": "2022-03-24T10:43:30Z",
+    "content": "Following the latest macOS Monterey 12.3 update, users are reporting several problems when using external monitors, ranging from Macs not detecting displays at all to inaccurate screen output, accord… [+3722 chars]"
+    }]}

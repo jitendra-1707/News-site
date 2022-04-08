@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: burlywood;
+  margin: 0;
+}
+.new-c{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.img-margin{
+  margin-top: 10px;
+  margin-right: 5px;
+}
+.news-layout{
+  display: flex;
+  align-items: right;
+  justify-content: left;
+  padding: 100px;
+  padding-top: 0px;
+}
+.head{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
