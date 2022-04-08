@@ -55,7 +55,7 @@ body{
   display: flex;
   align-items: right;
   justify-content: left;
-  padding: 100px;
+  
   padding-top: 0px;
 }
 .head{
@@ -63,4 +63,7 @@ body{
   align-items: center;
   justify-content: center;
   margin-bottom: 20px;
+}
+.btnmag{
+  margin-top: 10px;
 }
