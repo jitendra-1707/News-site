@@ -37,32 +37,8 @@
   }
 }
 body{
-  background-color: burlywood;
+  background-color: #e3e2f9;
   margin: 0;
 }
-.new-c{
-  display: flex;
-  align-items: center;
-  justify-content: center;
 
 
-}
-.img-margin{
-  margin-top: 10px;
-  margin-right: 5px;
-}
-.news-layout{
-  
-  
-  
-  padding-top: 0px;
-}
-.head{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-.btnmag{
-  margin-top: 10px;
-}
