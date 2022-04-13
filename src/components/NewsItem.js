@@ -10,7 +10,10 @@ export default class extends Component {
         <div className="card newsbg"  />
         
         <img 
-        
+          style={{    height: "250px",
+                      width: "370px"}}
+
+
           src={imagURL ? imagURL : newsimg}
           className="card-img-top img-margin"
           alt="..."
